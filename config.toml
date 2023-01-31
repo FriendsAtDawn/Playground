@@ -1,3 +1,4 @@
+sectionPagesMenu = "ma"
 baseURL = "/"
 languageCode = "en-us"
 title = "Wilson Villalba"
@@ -24,6 +25,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     highlightLanguages = ["r", "bash", "go"]
 
 # adjust these as you see fit
+
+menu = ['main', 'footer']
+
 [[menu.main]]
     url  = "/"
     name = "Home"
@@ -54,10 +58,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "Links"
     weight = 5
 
-#  [[menu.main.plra]]
-#  url = "/plra/"
-#  name = "PLRA"
-#  weight = 1
+  [[menu.footer]]
+  url = "/plra/"
+  name = "Info"
+  weight = 1
 
     
 #  [[menu.main.loquesea]]
@@ -93,3 +97,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 #   url = "https://www.stackoverflow.com/users/5878751/nate"
 #   name = "fab fa-stack-overflow"
 #   weight = 5
+
+
+[[menu.footer]]
+            title = "¿De qué se trata?"
+            url = "/about/"
+            
+
+[[menu.footer]]
+            enabled = true
+            header = "Contacta con Nosotros"
+            action = "https://formspree.io/f/xqkjrbjv"
+
+

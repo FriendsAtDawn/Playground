@@ -20,14 +20,12 @@ Ha poco me topé con un trabajo de un Juez sobre el tema. Su trabajo es harto in
     </item>
     
     <item>
-      <title>Links</title>
+      <title>peculiar</title>
       <link>/links/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>/links/</guid>
-      <description>Timestamps. Una de las cuestiones más difíciles en cuanto se refiere a los documentos es establecer su fecha cierta. La costumbre inveterada de antedatar hace que siempre dudemos de cualquiera de ellas.
-https://www.truetimestamp.org/ es la página más sencilla que hallé en cuanto a hacer un timestamp. Hay otras, pero si no tienen experiencia, sería bueno que empiecen con esta.
-Tenemos leyes, tenemos tratados internacionales, que dan al documento electrónico1 el mismo valor que el no electrónico: el de escribanía, etc.</description>
+      <description></description>
     </item>
     
     <item>
@@ -42,6 +40,17 @@ A mayor monto, menor honorarios.
 Nuestros jueces, ya es mucho decir que lo toman como una regla de tres. No creo que lleguen a tanto.
 Imaginemos que sí llegan.
 \begin{align*} \Delta h \Longrightarrow x \</description>
+    </item>
+    
+    <item>
+      <title>truetimestamp</title>
+      <link>/links/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/links/</guid>
+      <description>Timestamps. Una de las cuestiones más difíciles en cuanto se refiere a los documentos es establecer su fecha cierta. La costumbre inveterada de antedatar hace que siempre dudemos de cualquiera de ellas.
+https://www.truetimestamp.org/ es la página más sencilla que hallé en cuanto a hacer un timestamp. Hay otras, pero si no tienen experiencia, sería bueno que empiecen con esta.
+Tenemos leyes, tenemos tratados internacionales, que dan al documento electrónico1 el mismo valor que el no electrónico: el de escribanía, etc.</description>
     </item>
     
     <item>
@@ -97,6 +106,15 @@ El PLRA últimamente ha entrado en una espiral de demandas que parece no tener f
       <description>Informe sobre las dos ejecuciones contra el PARTIDO LIBERAL RADICAL AUTENTICO que hasta el momento me tocó contener. Dos causas fueron las que se empecinaron con los sueldos de los legisladores y sólo dos:
   CRISOL Y ENCARNACION FINANCIERA S.A. C/ PARTIDO LIBERAL RADICAL AUTENTICO Y OTROS S/ ACCION EJECUTIVA.- y;
   «MERIDIAN SA C/ PARTIDO LIBERAL RADICAL AUTENTICO Y OTROS S/ ACCIÓN EJECUTIVA», Expediente Nº 114 del año 2021.</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
     </item>
     
     <item>

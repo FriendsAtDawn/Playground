@@ -1,6 +1,6 @@
 ---
-title: "Links"
-description: "Algunas cosas interesantes."
+title: "truetimestamp"
+description: "Sellos de tiempo."
 draft: false
 date: 2023-01-11
 url: /links/
